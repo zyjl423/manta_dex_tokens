@@ -1,0 +1,58 @@
+{
+    "name": "Kapaswap Default List Manta Mainnet",
+    "timestamp": "2023-10-12 T23:57:10.982Z",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "https://bafybeifqispcyshdy5dqa4nyypz7iyfxg5fhmbkkeepox7fdmtplzztpgq.ipfs.nftstorage.link/logo_64.png",
+    "keywords": [
+        "kapaswap",
+        "default"
+    ],
+    "tokens": [
+       
+		{
+            "chainId": 169,
+            "address": "0x1c466b9371f8aBA0D7c458bE10a62192Fcb8Aa71",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/DAI.svg"
+        },
+		{
+            "chainId": 169,
+            "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/ETH.svg"
+        },
+		{
+            "chainId": 169,
+            "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/USDC.svg"
+        },
+		{
+            "chainId": 169,
+            "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/USDT.svg"
+        },
+		{
+            "chainId": 169,
+            "address": "0x305E88d809c9DC03179554BFbf85Ac05Ce8F18d6",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/WBTC.svg"
+        }
+    ]
+}

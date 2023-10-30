@@ -1,0 +1,42 @@
+{
+    "name": "Kapaswap Default List Manta Testnet",
+    "timestamp": "2023-10-12 T23:57:10.982Z",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "https://bafybeifqispcyshdy5dqa4nyypz7iyfxg5fhmbkkeepox7fdmtplzztpgq.ipfs.nftstorage.link/logo_64.png",
+    "keywords": [
+        "kapaswap",
+        "default"
+    ],
+    "tokens": [
+       
+		{
+            "chainId": 3441005,
+            "address": "0x67A1f4A939b477A6b7c5BF94D97E45dE87E608eF",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/ETH.svg"
+        },
+		{
+            "chainId": 3441005,
+            "address": "0x982CA028e8f95cd7f8e13A6fD2e7DFf9014dAd4B",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/USDC.svg"
+        },
+		{
+            "chainId": 3441005,
+            "address": "0xFC7EE95Ce4B410E43f76a345bD92b4c4D3a31B1D",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://bafybeidhxkscwgkmmfyavnnunxukhjfycjpsrqebom3rfstnb4lllmgyre.ipfs.nftstorage.link/USDT.svg"
+        }
+    ]
+}
